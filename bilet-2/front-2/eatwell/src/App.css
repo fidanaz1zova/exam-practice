@@ -1,0 +1,41 @@
+.container-1 {
+  margin: auto;
+  width: 1500px;
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(assets/images/back-1.webp);
+}
+.title-2 {
+  font-weight: 100;
+  font-size: 65px;
+  padding-top: 170px;
+  padding-left: 500px;
+  color: rgb(255, 255, 255);
+}
+.title-3 {
+  font-weight: 100;
+  font-size: 21px;
+  padding-left: 550px;
+  color: rgb(168, 168, 168);
+}
+.reservation {
+  width: 140px;
+  height: 40px;
+  margin-left: 700px;
+  background: none;
+  border: 2px solid white;
+  color: white;
+  font-family: sans-serif;
+  font-size: 13px;
+}
+.learn {
+  width: 140px;
+  height: 40px;
+  margin-left: 700px;
+  background: rgb(255, 166, 0);
+  border: 2px solid white;
+  color: white;
+  font-family: sans-serif;
+  font-size: 13px;
+}
