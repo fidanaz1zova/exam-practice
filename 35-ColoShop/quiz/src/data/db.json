@@ -1,0 +1,125 @@
+{
+    "posts": 
+        [
+            {
+            "id": 1,
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "price": 520.00,
+            "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+            "category": "men's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_1.png",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+            },
+            {
+            "id": 2,
+            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+            "price": 610.00,
+            "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+            "category": "women's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_2.png",
+            "rating": {
+            "rate": 4.1,
+            "count": 259
+            }
+            },
+            {
+            "id": 3,
+            "title": "Mens Cotton Jacket",
+            "price": 120.00,
+            "description": "Blue Yeti USB Microphone Blackout Edition",
+            "category": "women's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_3.png",
+            "rating": {
+            "rate": 4.7,
+            "count": 500
+            }
+            },
+            {
+            "id": 4,
+            "title": "Mens Casual Slim Fit",
+            "price": 410.00,
+            "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+            "category": "accessories",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_4.png",
+            "rating": {
+            "rate": 2.1,
+            "count": 430
+            }
+            },
+            {
+            "id": 5,
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "price": 180.00,
+            "description": "Pryma Headphones, Rose Gold & Grey",
+            "category": "men's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_5.png",
+            "rating": {
+            "rate": 4.6,
+            "count": 400
+            }
+            },
+            {
+            "id": 6,
+            "title": "Solid Gold Petite Micropave ",
+            "price": 520.00,
+            "description": "Fujifilm X100T 16 MP Digital Camera (Silver)",
+            "category": "accessories",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_6.png",
+            "rating": {
+            "rate": 3.9,
+            "count": 70
+            }
+            },
+            {
+            "id": 7,
+            "title": "White Gold Plated Princess",
+            "price": 610.00,
+            "description": "Samsung CF591 Series Curved 27-Inch FHD Monitor",
+            "category": "women's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_7.png",
+            "rating": {
+            "rate": 3,
+            "count": 400
+            }
+            },
+            {
+            "id": 8,
+            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "price": 120.00,
+            "description": "Blue Yeti USB Microphone Blackout Edition",
+            "category": "accessories",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_8.png",
+            "rating": {
+            "rate": 1.9,
+            "count": 100
+            }
+            },
+            {
+            "id": 9,
+            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+            "price": 410.00,
+            "description": "DYMO LabelWriter 450 Turbo Thermal Label Printer",
+            "category": "men's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_9.png",
+            "rating": {
+            "rate": 3.3,
+            "count": 203
+            }
+            },
+            {
+            "id": 10,
+            "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "price": 180.00,
+            "description": "Pryma Headphones, Rose Gold & Grey",
+            "category": "men's clothing",
+            "image": "https://preview.colorlib.com/theme/coloshop/images/product_10.png",
+            "rating": {
+            "rate": 2.9,
+            "count": 470
+            }
+            }
+    ]
+  }

@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+header {
+  width: 800px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 250px;
+}
+.active {
+  color: red;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  gap: 15px;
+}
+a {
+  font-family: monospace, sans-serif;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  margin-left: 40px;
+}
+.estoredot {
+  display: flex;
+  font-size: 13px;
+  font-weight: 900;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
+}
+.dot {
+  color: #000fdb;
+}
+.signin {
+  width: 100px;
+  height: 40px;
+  background-color: #113cffee;
+  border: 1px solid #1423ffd8;
+  border-radius: 30px;
+  color: white;
+}
+input {
+  border: 1px solid rgba(145, 145, 145, 0.63);
+  border-radius: 30px;
+  width: 150px;
+  height: 30px;
+  margin-left: 50px;
+}
