@@ -1,8 +1,8 @@
-import React from "react";
-import { Route, Routes } from "react-router-dom";
+import { useState } from "react";
+import "./App.css";
 import Header from "./Layout/Header";
 import Home from "./Pages/Home";
-import "./App.css";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (

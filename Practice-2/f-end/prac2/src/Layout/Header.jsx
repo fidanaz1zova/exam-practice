@@ -5,11 +5,7 @@ import "./Style.css";
 const Header = () => {
   return (
     <header>
-      <div className="aranozdot">
-        <h1 className="aranoz">Aranoz</h1>
-        <h1 className="dot">.</h1>
-      </div>
-
+      <h1 className="foundation">Foundation</h1>
       <nav>
         <ul>
           <li>
@@ -22,18 +18,26 @@ const Header = () => {
           </li>
           <li>
             <NavLink
-              to={"shop"}
+              to={"about"}
               className={(navData) => (navData.isActive ? "active" : "")}
             >
-              Shop
+              About
             </NavLink>
           </li>
           <li>
             <NavLink
-              to={"/pages"}
+              to={"/discover"}
               className={(navData) => (navData.isActive ? "active" : "")}
             >
-              Pages
+              Discover
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to={"/donate"}
+              className={(navData) => (navData.isActive ? "active" : "")}
+            >
+              Donate
             </NavLink>
           </li>
           <li>
